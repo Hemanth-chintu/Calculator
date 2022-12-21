@@ -1,0 +1,1 @@
+this folder contains svgs and other images related to the project
